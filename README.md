@@ -1,6 +1,4 @@
-# spring-security project will explore the security aspect of application
-# in this application we will be implementing different type of mechanism 
-# to safe guard our application. using spring boot 3.1 methodology
+# spring-security project will explore the security aspect of application. We will be implementing different type of mechanism to safe guard our application. using spring boot 3.1 methodology
 
 Spring Security without the WebSecurityConfigurerAdapter (Old way of doing security)
 Type of Spring Security Implementation we will try in this application.
